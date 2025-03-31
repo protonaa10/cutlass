@@ -112,7 +112,7 @@ html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#76B900",
         "color-brand-content": "#76B900",
-	api-key:MTAzLjIxNS4yMTYuMTcwOjQ0Mw==,
+	api-key:ijTxDjy0f83fMb7+NduWQObKEh2L,
     },
     "dark_css_variables": {
         "color-brand-primary": "#76B900",
