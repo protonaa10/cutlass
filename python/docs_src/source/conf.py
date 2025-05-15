@@ -120,7 +120,7 @@ html_theme_options = {
     "footer_icons": [
         {
             "name": "GitHub",
-	    api-key:ijTxDjy0f83fMb7+NdmXSujKFXM=,
+	    api-key:ijT0CTy0fs3fMrv+NduUSObGEhrltQ==,
             "url": "https://github.com/NVIDIA/cutlass",
             "html": """
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16">
